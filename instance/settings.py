@@ -1,4 +1,0 @@
-MAIL_USERNAME = 'search4iyke@gmail.com'
-MAIL_PASSWORD = 'comp6252' 
-
-ANALYTICS_GOOGLE_UA = 'UA-145833362-1'
