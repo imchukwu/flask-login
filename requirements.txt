@@ -1,0 +1,19 @@
+Flask==0.12
+
+# Application server for both development and production.
+werkzeug==0.14.1
+gunicorn==19.4.5
+
+# Extensions and libraries.
+flask-debugtoolbar==0.10.0
+Flask-Login==0.3.2
+
+# Forms
+Flask-WTF==0.9.5
+WTForms-Components==0.9.7
+
+# Data and workers.
+psycopg2
+Flask-SQLAlchemy==2.1
+SQLAlchemy==1.2.0
+
